@@ -3,7 +3,7 @@ import numpy as np
 import face_recognition
 import os
 import pyttsx3
-from Attendence import markAttendence
+from attendence import markAttendence
 
 engine = pyttsx3.init()
 
